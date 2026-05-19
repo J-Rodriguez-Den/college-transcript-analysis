@@ -1,5 +1,5 @@
 # college-transcript-analysis
-This is my personal data analysis project, which I decided to do before my graduation. I analyzed my academic transcripts from the two institutions I attended using **R**. I built this for a couple of reasons. 1: I wanted to practice my data visualization skills I learned in college, to try to remember as much as I could. 2. This is proof to myself that I can transition from aviation maintenance into a remote data analyst role.
+This is my personal data analysis project, which I decided to do before my graduation. I analyzed my academic transcripts from the two institutions I attended using **R**. I built this for a couple of reasons. 1: I wanted to practice my data visualization skills I learned in college, to try to remember as much as I could. 2. This is proof to myself that I can transition from aviation maintenance into a data analyst role.
 
 ---
 
