@@ -19,26 +19,34 @@ I've been an aviation maintenance technician (A&P licensed) working on PT6 engin
 
 I combined the transcript data from both colleges I attended (Tarrant County College and MSU Denver) into Excel, and then into a single CSV. After that, I used R to explore the data and build some charts. Each chart answers a specific question of my own making.
 
-### Chart 1: Overall Grade Distribution
+### R Chart 1: Overall Grade Distribution
 First, I decided to do a grade distribution for every class I've taken across both schools. I included explanations for the posted non-traditional grades.
 
 ![Grade Distribution](images/chart1_college_grade_distribution.png)
 
-### Chart 2: MSU Denver Grade Distribution
+### R Chart 2: MSU Denver Grade Distribution
 Second, I decided to display my grades earned at MSU Denver specifically, showing my final to be a 3.950 GPA (very proud of that).
 
 ![MSU Denver Grades](images/chart2_msu_grade_distribution.png)
 
-### Chart 3: Online vs In-Person Classes
+### R Chart 3: Online vs In-Person Classes
 Third, this has a timeline of how my classes shifted to online over the past several years, and the grades I earned in each format. I did this because I was curious, but I also felt that this displays that I can do well for a company with a remote position. (This one took the longest.)
 
 ![Online vs In-Person Timeline](images/chart3_online_in-person_timeline.png)
 
-### Chart 4: Coursework by Subject Area
+### R Chart 4: Coursework by Subject Area
 Finally, I created a breakdown of my classes across aviation, economics, and general education.
 
 ![Subject Areas](images/chart4_subject_areas_+_awards.png)
 
+### Power BI Dashboard 1
+To continue this project, I added the same data into Power BI and created dashboards for what was interesting about my college transcripts to me. 
+
+![Power BI Dashboard Overview](images/1powerbi_dashboard_overview.png)
+
+### Power BI Dashboard 2
+
+![Power BI Dashboard Overview](images/2powerbi_dashboard_overview.png)
 ---
 
 ## Tools Used
