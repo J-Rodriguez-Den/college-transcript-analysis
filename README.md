@@ -1,5 +1,9 @@
 # college-transcript-analysis
-This is my personal data analysis project, which I decided to do before my graduation. I analyzed my academic transcripts from the two institutions I attended using **R**. I built this for a couple of reasons. 1: I wanted to practice my data visualization skills I learned in college, to try to remember as much as I could. 2. This is proof to myself that I can transition from aviation maintenance into a data analyst role.
+This is my personal data analysis project, which I decided to do before my graduation. I analyzed my academic transcripts from the two institutions I attended, first in **R**, then in **Power BI**. I built this for a couple of reasons. 1: I wanted to practice my data visualization skills I learned in college, to try to remember as much as I could. 2. This is proof to myself that I can transition from aviation maintenance into a rewarding role in a different industry.
+
+Part 1: R. Exploratory analysis and static visualizations using ggplot2, dplyr, patchwork, and ggtext.
+
+Part 2: Power BI. An interactive dashboard built from the same combined transcript data, with KPI cards, filters by institution, and a breakdown of classes by subject area and if the class was in-person or online.
 
 ---
 
@@ -44,6 +48,7 @@ Finally, I created a breakdown of my classes across aviation, economics, and gen
 - **dplyr** — data wrangling
 - **patchwork** — multi-panel layouts
 - **ggtext** — formatted chart text
+- **Power BI** — interactive dashboard
 
 ---
 
@@ -52,3 +57,4 @@ Finally, I created a breakdown of my classes across aviation, economics, and gen
 - `csv_Combined_Transcripts.csv` — combined transcript data
 - `R.Transcript_Data_for_College_Career.R` — full R analysis script
 - `chart1` through `chart4` PNG files — the visualizations
+- `Combined_College_Transcripts.pbix` — Power BI dashboard (open in Power BI Desktop to view)
